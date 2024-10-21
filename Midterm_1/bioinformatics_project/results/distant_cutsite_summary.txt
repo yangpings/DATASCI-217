@@ -1,0 +1,9 @@
+Analyzing cut site: G|GATCC
+Total cut sites found: 243
+Cut site pairs 80-120 kbp apart: 2077
+First 5 pairs:
+1. 1106 - 81448
+2. 1106 - 87760
+3. 1106 - 93577
+4. 1106 - 99127
+5. 1106 - 101257
