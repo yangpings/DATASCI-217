@@ -17,6 +17,48 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Assignment_6\ddf--datapoints--population--by--country--age--gender--year\ddf--datapoints--population--by--country-abw--age--gender--year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assignment_6\ddf--datapoints--population--by--country--age--gender--year\ddf--datapoints--population--by--country-afg--age--gender--year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assignment_6\ddf--datapoints--population--by--country--age--gender--year\ddf--datapoints--population--by--country-bel--age--gender--year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assignment_6\ddf--datapoints--population--by--country--age--gender--year\ddf--datapoints--population--by--country-chn--age--gender--year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assignment_6\ddf--datapoints--population--by--country--age--gender--year\ddf--datapoints--population--by--country-twn--age--gender--year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assignment_6\ddf--datapoints--population--by--country--age--gender--year\ddf--datapoints--population--by--country-usa--age--gender--year.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
