@@ -59,6 +59,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Assignment_7\patient_baseline.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Assignment_7\patient_longitudinal.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
