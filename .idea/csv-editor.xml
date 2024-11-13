@@ -73,6 +73,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Midterm_2\ms_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Midterm_2\ms_data_dirty.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
